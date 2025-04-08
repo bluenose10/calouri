@@ -1,0 +1,14 @@
+
+project_id = "cbjyshotohhjtyljthxz"
+
+[api]
+# No custom API configurations needed for this project
+
+[db]
+# No custom database configurations needed
+
+[functions.fatsecret-auth]
+verify_jwt = false
+
+[functions.food-analysis]
+verify_jwt = true
